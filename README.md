@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sharika Vinayagam
 
-👨‍💻 **Frontend Developer** with 3+ years of experience crafting dynamic, responsive, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **HTML**, and **CSS**, with a strong focus on performance and clean UI design.
+👨‍💻 **Full stack Developer** with 3+ years of experience crafting dynamic, responsive, and user-friendly web applications. I specialize in **React.js**, **Next.js**, **React Native**, and **Express JS**, with a strong focus on performance and clean UI design.
 
 🔍 Passionate about:
 - Building sleek and intuitive interfaces
